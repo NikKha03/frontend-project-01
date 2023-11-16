@@ -1,0 +1,14 @@
+.root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+.b-color {
+  background-color: rgba(229, 231, 236, 0.414);
+}
+.form {
+  border-radius: 15px;
+}
